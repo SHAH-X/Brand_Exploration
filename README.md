@@ -6,7 +6,7 @@ Text Analytics
 
 * Dataset : Twitter's Dataset about tweets related to Starbucks with 1600 tweets and 15 features
 
-* Tools and Models Used : This project was completed Python programming. The algorithm implemented in the project was Sentiment Analysis, Topic Modelling, Geo-spatial Analysis and Time-series analysis.
+* Tools and Models Used : This project was completed Python programming and Tableau. The algorithm implemented in the project was Sentiment Analysis, Topic Modelling, Geo-spatial Analysis and Time-series analysis.
 
 * Feature Selection and Engineering: Generated important features using the available data, which is useful for conducting the analysis.
 
